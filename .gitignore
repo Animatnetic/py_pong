@@ -3,3 +3,4 @@ venv/
 build/
 dist/
 ^Build and dist are due to pyInstaller
+*.spec
