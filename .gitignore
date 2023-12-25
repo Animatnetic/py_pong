@@ -1,2 +1,5 @@
 venv/
 .idea/
+build/
+dist/
+^Build and dist are due to pyInstaller
